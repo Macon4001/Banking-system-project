@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\MyForm.h(835,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\MyForm.h(890,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\MyForm.h(902,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\MyForm.h(914,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Banking system project.vcxproj -> C:\Users\macon\OneDrive\Desktop\Banking system project\Debug\Banking system project.exe

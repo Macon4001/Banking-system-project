@@ -1,0 +1,3 @@
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\Debug\Banking system project.vcxprojAssemblyReference.cache
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\Debug\Bankingsystemproject.MyForm.resources
+C:\Users\macon\OneDrive\Desktop\Banking system project\Banking system project\Debug\Banking system project.vcxproj.GenerateResource.cache
